@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to MATLAByrinth
 
-You can use the [editor on GitHub](https://github.com/AmruthaRaghu/matlabyrinth/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+This tutorial is created for the MATLAB workshop held at NC State University Library. It focuses on developing a fundamental understanding of powerful tools available in MATLAB programming and applying the same for scientific research and academic coursework. 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
