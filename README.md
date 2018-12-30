@@ -1,18 +1,10 @@
 ## Welcome to MATLAByrinth
 
 This tutorial is created for the MATLAB workshop held at NC State University Library. It focuses on developing a fundamental understanding of powerful tools available in MATLAB programming and applying the same for scientific research and academic coursework. 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Getting Started
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+MATLAB desktop environment allowes you to work interactively with your data, helps you to keep track of files and variables, and simplifies common programming and debugging tasks. 
 
 - Bulleted
 - List
