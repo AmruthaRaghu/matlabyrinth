@@ -2,7 +2,7 @@
 
 This tutorial is created for the MATLAB workshop held at NC State University Library. It focuses on developing a fundamental understanding of powerful tools available in MATLAB programming and applying the same for scientific research and academic coursework. 
 
-# Getting Started
+### Getting Started
 
 MATLAB desktop environment allowes you to work interactively with your data, helps you to keep track of files and variables, and simplifies common programming and debugging tasks. 
 
